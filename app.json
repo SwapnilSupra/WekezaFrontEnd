@@ -1,0 +1,5 @@
+{
+  "name": "WekezaTradingApp",
+  "displayName": "WekezaTradingApp",
+  "assetBundlePatterns": ["assets/fonts/*"]
+}

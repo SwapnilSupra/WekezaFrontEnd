@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038640306826",
+    "project_id": "wekeza-trading-app-3fd9b",
+    "storage_bucket": "wekeza-trading-app-3fd9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038640306826:android:68cabdd5951204a507eb73",
+        "android_client_info": {
+          "package_name": "com.wekezatradingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038640306826-54nmq9c6degb45fb98hd9et24rv1o1fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ0RcwzltTFqvfulzVmbFOYzNeQ3zNOu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038640306826-54nmq9c6degb45fb98hd9et24rv1o1fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
